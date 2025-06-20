@@ -18,7 +18,7 @@
                             <div class="pr-5 tex">
 
                                 <h5 class="w-5 mb-5">Selamat Datang Di </h5>
-                                <h1 class="mb-3 font-weight-bold">Aplikasi CAT MANDIRI UNM TAHUN 2024</h1>
+                                <h1 class="mb-3 font-weight-bold">Aplikasi CAT MANDIRI UNM TAHUN 2025</h1>
                             </div>
                             <img src="{{ url('cat') }}/img/icons.png" height="200px" alt="">
 
@@ -27,7 +27,7 @@
                     </div>
                     <div class="card-footer text-center bg-primary text-white">
                         <p class="mb-0">
-                            SELEKSI CAT MANDIRI UNM TAHUN 2024
+                            SELEKSI CAT MANDIRI UNM TAHUN 2025
                         </p>
                     </div>
                 </div>

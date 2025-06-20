@@ -17,7 +17,7 @@
                         Download paket ujian
                     </h3>
                     <div class="mb-3">
-                    <small style="font-weight: 300;">Periode CAT Mandiri 2021</small></div>
+                    <small style="font-weight: 300;">Periode CAT Mandiri 2025</small></div>
                     <div>
                         <button class="btn btn-success btn-sm m-0 mb-2"   type="button" onclick="download_soal(); return false;" data-mdb-ripple-color="dark">
                             <i class="fas fa-check mr-2"></i>Download
@@ -50,7 +50,7 @@
                         Sinkronisasi User
                     </h3>
                     <div class="mb-3">
-                    <small style="font-weight: 300;">Periode CAT Mandiri 2021</small></div>
+                    <small style="font-weight: 300;">Periode CAT Mandiri 2025</small></div>
                     <div>
                         <button onclick="sinkronisasi_user(); return false;" class="btn btn-primary btn-sm m-0 mb-2" type="button" id="button-addon2" data-mdb-ripple-color="dark">
                             <i class="fas fa-upload mr-2"></i></i>Sinkronisasi User

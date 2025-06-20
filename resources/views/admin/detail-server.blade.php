@@ -54,7 +54,7 @@
        <div class="col-md-6">
         <div class="card  mt-3">
             <div class="card-header font-weight-bold text-primary">
-                Data pengawas MANDIRI 2021
+                Data pengawas MANDIRI 2025
             </div>
             <div class="card-body">
                 <table class="table table-sm table-bordered tb-cs" id="semua-data-pengawas" >
